@@ -1,4 +1,4 @@
-import zipfile
+import zipfile37 as zipfile
 
 from . import deflate64
 from ._patcher import patch
